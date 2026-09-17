@@ -25,41 +25,23 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ The Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,laravel,react,mysql,figma" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,laravel,react,mysql" alt="Tech Stack"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## My Contributions
 
-### Menu Digital QR Restaurant
+<div align="center">
 
-A digital restaurant menu project with QR code integration.
+<img src="https://raw.githubusercontent.com/ccyska/ccyska/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-**Tech:** Laravel, PHP, MySQL
-
----
-
-### Brosur Online
-
-A web-based brochure project with an admin management concept.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS
-
----
-
-### Jalantra PKL Presentation
-
-An interactive presentation website for documenting PKL progress.
-
-**Tech:** HTML, CSS, JavaScript
-
----
+</div>
 
 <div align="center">
 
