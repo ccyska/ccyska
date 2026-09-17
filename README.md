@@ -30,19 +30,18 @@ Just an ordinary people.
 
 ---
 
-
 ## Contact Me
 
 <div align="center">
 
 <a href="https://instagram.com/ctrayska">
-  <span style="display:inline-block; width:45px; height:45px; background-color:#E4405F;"></span>
+<img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&labelColor=E4405F&color=E4405F" width="45">
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:citrayuriska47@gmail.com">
-  <span style="display:inline-block; width:45px; height:45px; background-color:#D14836;"></span>
+<img src="https://img.shields.io/badge/-%23D14836?style=for-the-badge&labelColor=D14836&color=D14836" width="45">
 </a>
 
 </div>
