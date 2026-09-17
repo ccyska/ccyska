@@ -37,7 +37,7 @@ Just an ordinary person.
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-<a href="https://instagram.com/ctrayska">
+<a href="https://instagram.com/ctrayskaa">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram">
 </a>
 
