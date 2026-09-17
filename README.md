@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./assets/nailong-banner.png" width="100%" alt="Banner"/>
@@ -17,11 +16,7 @@
 
 ## About Me
 
-- Frontend Developer
-- Exploring Backend Development
-- Interested in UI/UX Design
-- Love Building Websites
-- Learning by Building Projects
+Just an ordinary people.
 
 ---
 
@@ -35,10 +30,16 @@
 
 ---
 
-
+## Contact Me
 
 <div align="center">
 
-### Thanks for visiting! ♡
+<a href="https://instagram.com/ctrayska">
+  <img src="https://img.shields.io/badge/Instagram-ctrayska-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:citrayuriska47@gmail.com">
+  <img src="https://img.shields.io/badge/Email-citrayuriska47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
