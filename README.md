@@ -34,8 +34,13 @@ Just an ordinary people.
 
 <div align="center">
 
-<a href="https://instagram.com/ctrayska">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
+<a href="https://instagram.com/ctrayskaa">Instagram</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:citrayuriska47@gmail.com">Email</a>
+
+</div>  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
