@@ -30,30 +30,19 @@ Just an ordinary people.
 
 ---
 
+
 ## Contact Me
 
 <div align="center">
 
-<a href="https://instagram.com/ctrayskaa">Instagram</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:citrayuriska47@gmail.com">Email</a>
-
-</div>  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
+<a href="https://instagram.com/ctrayska">
+  <span style="display:inline-block; width:45px; height:45px; background-color:#E4405F;"></span>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:citrayuriska47@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
-</a>
-
-</div>  <img src="https://img.shields.io/badge/Instagram-ctrayskaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:citrayuriska47@gmail.com">
-  <img src="https://img.shields.io/badge/Email-citrayuriska47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <span style="display:inline-block; width:45px; height:45px; background-color:#D14836;"></span>
 </a>
 
 </div>
