@@ -35,19 +35,29 @@
 
 ---
 
-## 📊 My Statistics
+## 🚀 Featured Projects
 
-<div align="center">
+### Menu Digital QR Restaurant
 
-<img src="https://github-readme-stats.vercel.app/api?username=ccyska&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats"/>
+A digital restaurant menu project with QR code integration.
 
-<img src="https://streak-stats.demolab.com/?user=ccyska&theme=default&hide_border=true" width="48%" alt="GitHub Streak"/>
+**Tech:** Laravel, PHP, MySQL
 
-<br><br>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccyska&layout=compact&theme=default&hide_border=true" width="40%" alt="Top Languages"/>
+### Brosur Online
 
-</div>
+A web-based brochure project with an admin management concept.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS
+
+---
+
+### Jalantra PKL Presentation
+
+An interactive presentation website for documenting PKL progress.
+
+**Tech:** HTML, CSS, JavaScript
 
 ---
 
