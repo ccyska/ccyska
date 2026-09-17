@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/nailong-banner.png" width="100%" alt="Nailong Banner"/>
+<img src="./assets/nailong-banner.png" width="100%" alt="Banner"/>
 
 <br>
 
