@@ -35,7 +35,16 @@ Just an ordinary people.
 <div align="center">
 
 <a href="https://instagram.com/ctrayska">
-  <img src="https://img.shields.io/badge/Instagram-ctrayska-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:citrayuriska47@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
+</a>
+
+</div>  <img src="https://img.shields.io/badge/Instagram-ctrayskaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="mailto:citrayuriska47@gmail.com">
