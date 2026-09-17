@@ -35,17 +35,14 @@ Just an ordinary person.
 
 ## Contact Me
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://instagram.com/ctrayska">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram">
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:citrayuriska47@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+<a href="https://instagram.com/ctrayska">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram">
+</a>
+
+<a href="mailto:citrayuriska47@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email">
+</a>
+
+</div>
