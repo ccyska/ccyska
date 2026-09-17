@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ The Stack
+## The Stack
 
 <div align="center">
 
