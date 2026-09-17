@@ -4,7 +4,7 @@
 
 <br>
 
-# Hi, I'm Citra Yuriska 👋
+# Hi, I'm Citra! 
 
 ### Welcome to my GitHub!
 
@@ -16,8 +16,10 @@
 
 ## About Me
 
-Just an ordinary people.
 
+<div align="center">
+Just an ordinary person.
+</div>
 ---
 
 ## The Stack
