@@ -81,5 +81,3 @@ Just an ordinary person.
 </p>
 
 
-
-dan tawarkan aku tambahkan sesuatu dan juga kamu tau ga selain web enthusiastment aku juga suka frontend backend tapi ui kurang tapi backend ga sejago itu tapi bisa
