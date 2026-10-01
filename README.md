@@ -2,7 +2,7 @@
 
 # Hey, I'm Citra! 👋🏻
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=1E3A5F&center=true&vCenter=true&width=650&lines=Web+Development+Enthusiast" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Web+Development+Enthusiast" alt="Typing Animation"/>
 
 </div>
 
